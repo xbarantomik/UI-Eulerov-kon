@@ -1,0 +1,2 @@
+Eulerov kôň
+Warnsdorffov algoritmus
